@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonjaffary
-- 👀 I’m interested in Web designing and frontend development
-- 🌱 I’m currently learning React Js
+- 👀 I’m interested in Web application designing and frontend development
+- 🌱 I’m currently working as an angular developer
 - 💞️ I’m looking to collaborate on Frontend Development
 - 📫 You can reach me by my linkedin or Github.
 
